@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "Mobile",
+      "quantity": 3,
+      "image": "https://i.gadgets360cdn.com/products/large/redmi-note-10s-db-600x800-1620030866.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "Mobile3",
+      "quantity": 3,
+      "image": "https://i.gadgets360cdn.com/products/large/redmi-note-10s-db-600x800-1620030866.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "Mobile2",
+      "quantity": 3,
+      "image": "https://i.gadgets360cdn.com/products/large/redmi-note-10s-db-600x800-1620030866.jpg"
+    }
+  ]
+}
